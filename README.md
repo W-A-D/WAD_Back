@@ -22,13 +22,19 @@
 ### 🌏 Front
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=next"><img src="https://skillicons.dev/icons?i=tailwindcss"><img src="https://skillicons.dev/icons?i=ts">
+	<img src="https://skillicons.dev/icons?i=react"><img src="https://skillicons.dev/icons?i=js">
 </p>
 
 ### 🌐 Back
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=spring"><img src="https://skillicons.dev/icons?i=java">
+</p>
+
+### 🌐 design
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=figma">
 </p>
 
 ### 💾 Database
@@ -40,14 +46,13 @@
 ### 🚀 Deployment
 
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=vercel">
     <img src="https://skillicons.dev/icons?i=aws">
 </p>
 
 ### 👥 Cooperation
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git"><img src="https://skillicons.dev/icons?i=github"><img src="https://skillicons.dev/icons?i=figma"><img src="https://skillicons.dev/icons?i=notion"><img src="https://skillicons.dev/icons?i=discord">
+    <img src="https://skillicons.dev/icons?i=git"><img src="https://skillicons.dev/icons?i=github"><img src="https://skillicons.dev/icons?i=figma"><img src="https://skillicons.dev/icons?i=discord">
 </p>
 
 ## 💻 웹페이지 최종 동작
