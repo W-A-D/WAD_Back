@@ -14,6 +14,7 @@
 |  역할  | <div align="center"><img src="https://skillicons.dev/icons?i=spring" width="50"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=spring" width="50"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/></div> |
 
 
+
 ---
 
 ## 📝 서비스 소개
