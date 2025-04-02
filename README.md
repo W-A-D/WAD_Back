@@ -8,35 +8,11 @@
 
 ## 🧑‍💻 멤버
 
-<table align="center" style="white-space: nowrap;">
-  <tr>
-    <th>이름</th>
-    <th><a href="https://github.com/jungwook02">박정욱</a></th>
-    <th><a href="https://github.com/ryeol00">유광렬</a></th>
-    <th><a href="https://github.com/No4hh4oN">장준익</a></th>
-    <th><a href="https://github.com/heeyoung00">심희영</a></th>
-    <th><a href="https://github.com/2-una">이유나</a></th>
-    <th><a href="https://github.com/dbskdbsk">김유나</a></th>
-  </tr>
-  <tr>
-    <td>프로필</td>
-    <td><img src="https://avatars.githubusercontent.com/u/105060201?v=4" width="150"/></td>
-    <td><img src="https://avatars.githubusercontent.com/u/129136966?v=4" width="150"/></td>
-    <td><img src="https://avatars.githubusercontent.com/u/155427247?v=4" width="150"/></td>
-    <td><img src="https://avatars.githubusercontent.com/u/165233927?v=4" width="150"/></td>
-    <td><img src="https://avatars.githubusercontent.com/u/165164743?v=4" width="150"/></td>
-    <td><img src="https://avatars.githubusercontent.com/u/165157663?v=4" width="150"/></td>
-  </tr>
-  <tr>
-    <td>역할</td>
-    <td><img src="https://skillicons.dev/icons?i=spring" width="70"/></td>
-    <td><img src="https://skillicons.dev/icons?i=spring" width="70"/></td>
-    <td><img src="https://skillicons.dev/icons?i=react" width="70"/></td>
-    <td><img src="https://skillicons.dev/icons?i=react" width="70"/></td>
-    <td><img src="https://skillicons.dev/icons?i=figma" width="70"/></td>
-    <td><img src="https://skillicons.dev/icons?i=figma" width="70"/></td>
-  </tr>
-</table>
+|   이름   | [박정욱](https://github.com/jungwook02) | [유광렬](https://github.com/ryeol00) | [장준익](https://github.com/No4hh4oN) | [심희영](https://github.com/heeyoung00) | [이유나](https://github.com/2-una) | [김유나](https://github.com/dbskdbsk) |
+| :----: | :--------------------------------------------: | :----------------------------------: | :----------------------------------: | :----------------------------------: | :----------------------------------: | :----------------------------------: |
+|  프로필  | <div align="center"><img src="https://avatars.githubusercontent.com/u/105060201?v=4" width="150"/></div> | <div align="center"><img src="https://avatars.githubusercontent.com/u/129136966?v=4" width="150"/></div> | <div align="center"><img src="https://avatars.githubusercontent.com/u/155427247?v=4" width="150"/></div> | <div align="center"><img src="https://avatars.githubusercontent.com/u/165233927?v=4" width="150"/></div> | <div align="center"><img src="https://avatars.githubusercontent.com/u/165164743?v=4" width="150"/></div> | <div align="center"><img src="https://avatars.githubusercontent.com/u/165157663?v=4" width="150"/></div> |
+|   역할   | <div align="center"><img src="https://skillicons.dev/icons?i=spring" width="50"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=spring" width="50"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/></div> |
+
 
 
 
