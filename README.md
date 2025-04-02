@@ -6,10 +6,11 @@
 
 ## 🧑‍💻 멤버
 
-|  이름  | [박정욱](https://github.com/jungwook02) | [유광렬](https://github.com/ryeol00) | [장준익](https://github.com/No4hh4oN) | [심희영]([https://github.com/jeongawon](https://github.com/heeyoung00)) | 이유나(https://github.com/2-una) | 김유나(https://github.com/dbskdbsk) |
-| :----: | :--------------------------------------------: | :----------------------------------: | :----------------------------------: | :----------------------------------: | :----: | :----: |
-| 프로필 | <img src=" https://avatars.githubusercontent.com/u/105060201?v=4"/> | <img src="https://avatars.githubusercontent.com/u/129136966?v=4"/> | <img src="https://avatars.githubusercontent.com/u/155427247?v=4"/> | <img src="https://avatars.githubusercontent.com/u/165233927?v=4"/> | <img src="https://avatars.githubusercontent.com/u/165164743?v=4"/> | <img src="https://avatars.githubusercontent.com/u/165164743?v=4"/> |
-|  역할  | <img src="https://skillicons.dev/icons?i=spring"> | <img src="https://avatars.githubusercontent.com/u/165157663?v=4"> | <img src="https://skillicons.dev/icons?i=react"> | <img src="https://skillicons.dev/icons?i=react"> | <img src="https://skillicons.dev/icons?i=figma"> | <img src="https://skillicons.dev/icons?i=figma"> |
+|  이름  | [박정욱](https://github.com/jungwook02) | [유광렬](https://github.com/ryeol00) | [장준익](https://github.com/No4hh4oN) | [심희영](https://github.com/heeyoung00) | [이유나](https://github.com/2-una) | [김유나](https://github.com/dbskdbsk) |
+| :----: | :--------------------------------------------: | :----------------------------------: | :----------------------------------: | :----------------------------------: | :----------------------------------: | :----------------------------------: |
+| 프로필 | <img src="https://avatars.githubusercontent.com/u/105060201?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/129136966?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/155427247?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/165233927?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/165164743?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/165164743?v=4" width="100"/> |
+|  역할  | <img src="https://skillicons.dev/icons?i=spring" width="50"/> | <img src="https://skillicons.dev/icons?i=spring" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=figma" width="50"/> | <img src="https://skillicons.dev/icons?i=figma" width="50"/> |
+
 
 
 ## 📝 서비스 소개
