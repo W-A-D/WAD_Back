@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/c446aa81-ef8d-419a-81ce-bf31411b5ea3" width="600px">
+      <img src="https://github.com/user-attachments/assets/c446aa81-ef8d-419a-81ce-bf31411b5ea3" width="700px">
     </td>
   </tr>
 </table>
@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/1cc32a2f-0e68-4d46-b42a-a387db5def92" width="700px">
+      <img src="https://github.com/user-attachments/assets/1cc32a2f-0e68-4d46-b42a-a387db5def92" width="600px">
     </td>
   </tr>
 </table>
