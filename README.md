@@ -204,7 +204,7 @@
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
 
-[![데모 시나리오](https://img.youtube.com/vi/vCadzcZWhLM/0.jpg)](https://www.youtube.com/watch?v=vCadzcZWhLM)
+[![프로젝트 시연 영상](https://youtu.be/SQxkXWdHU7U?si=t_bbwSiZX9J2qhjM)
   </tr>
 </table>
 
