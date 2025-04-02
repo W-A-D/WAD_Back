@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-      <img src="[https://github.com/user-attachments/assets/b2cd3d17-3c4e-4978-bd53-ca3651cc4e1a](https://github.com/user-attachments/assets/a2118056-eec5-4c05-8591-a4f3714c02e2)" width="600px">
+      <img src="https://github.com/user-attachments/assets/a2118056-eec5-4c05-8591-a4f3714c02e2" width="600px">
     </td>
   </tr>
 </table>
