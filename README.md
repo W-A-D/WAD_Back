@@ -192,21 +192,24 @@
     </td>
   </tr>
 </table>
-## 🎥 데모 시나리오 영상
+## 🎥 프로젝트 시연 영상
 
 
 <table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-      <strong>데모 시나리오 (클릭하면 재생!)</strong>
+      <strong>프로젝트 시연 영상 (클릭하면 재생!)</strong>
     </td>
   </tr>
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-
-[![프로젝트 시연 영상](https://github.com/user-attachments/assets/0ec2c07e-ec8e-412d-a255-5733ee124895)](https://youtu.be/SQxkXWdHU7U?si=t_bbwSiZX9J2qhjM)
+      <a href="https://youtu.be/SQxkXWdHU7U?si=t_bbwSiZX9J2qhjM">
+        <img src="https://github.com/user-attachments/assets/0ec2c07e-ec8e-412d-a255-5733ee124895" width="100">
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 
