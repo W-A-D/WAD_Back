@@ -139,7 +139,7 @@
 <table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-      <strong>OpenAI(ChatGptApi) 기능</strong>
+      <strong> OpenAI(ChatGptApi) 기능</strong>
     </td>
   </tr>
   <tr>
