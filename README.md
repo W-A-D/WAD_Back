@@ -1,4 +1,4 @@
-# 2024-1 교내 SW 경진 대회 못난이사자들팀  우수상(3위) 수상작 W.A.D
+## 2024-1 교내 SW 경진 대회 못난이사자들팀  우수상(3위) 수상작 W.A.D
 
 <p align="center">
    🔹대학생과 개발 입문자들을 위한 AI기반 웹 프로젝트 정보 및 일정 공유 커뮤니티 W.A.D(What are you doin?)🔹
@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/a2118056-eec5-4c05-8591-a4f3714c02e2" width="600px">
+      <img src="https://github.com/user-attachments/assets/abd91ae2-d3ab-45ee-ab90-93a9a8767921" width="700px">
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-     <img src="https://github.com/user-attachments/assets/b2cd3d17-3c4e-4978-bd53-ca3651cc4e1a" alt="이미지" width="600px">
+     <img src="https://github.com/user-attachments/assets/8f7c8f89-4513-4fd4-befe-96267b280126" alt="이미지" width="700px">
     </td>
   </tr>
 </table>
@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/0a99ba7d-0d13-4294-8c4d-8fffeeaa630f" width="600px">
+      <img src="https://github.com/user-attachments/assets/c446aa81-ef8d-419a-81ce-bf31411b5ea3" width="600px">
     </td>
   </tr>
 </table>
@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/2de0fe11-6f16-4392-b8eb-47a80d754dba" width="600px">
+      <img src="https://github.com/user-attachments/assets/1cc32a2f-0e68-4d46-b42a-a387db5def92" width="700px">
     </td>
   </tr>
 </table>
