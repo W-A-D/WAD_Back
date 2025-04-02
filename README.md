@@ -31,7 +31,7 @@
 	<img src="https://skillicons.dev/icons?i=spring"><img src="https://skillicons.dev/icons?i=java">
 </p>
 
-### 🌐 design
+### 🎨 Design
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=figma">
@@ -52,7 +52,7 @@
 ### 👥 Cooperation
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git"><img src="https://skillicons.dev/icons?i=github"><img src="https://skillicons.dev/icons?i=figma"><img src="https://skillicons.dev/icons?i=discord">
+    <img src="https://skillicons.dev/icons?i=git"><img src="https://skillicons.dev/icons?i=github"><img src="https://skillicons.dev/icons?i=discord">
 </p>
 
 ## 💻 웹페이지 최종 동작
