@@ -55,12 +55,12 @@
     <img src="https://skillicons.dev/icons?i=git"><img src="https://skillicons.dev/icons?i=github"><img src="https://skillicons.dev/icons?i=discord">
 </p>
 
-## 💻 웹페이지 최종 동작
+## 💻 웹페이지 최종 구현 화면
 
 <table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-      <strong>로그인 페이지</strong>
+      <strong>메인 페이지</strong>
     </td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@
 <table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-      <strong>서재 조회</strong>
+      <strong>일반 게시판</strong>
     </td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@
 <table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-      <strong>AI 책 추천</strong>
+      <strong>일정 게시글 작성 페이지 </strong>
     </td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@
 <table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
-      <strong>독서대 타이머</strong>
+      <strong>OpenAI(ChatGptApi) 기능</strong>
     </td>
   </tr>
   <tr>
@@ -107,91 +107,7 @@
     </td>
   </tr>
 </table>
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <strong>책갈피 추가 및 조회</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <img src="gif/bookMarkAdd.gif" width="300px">
-    </td>
-  </tr>
-</table>
 
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <strong>독서대 백색소음</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <img src="gif/asmr.gif" width="300px">
-    </td>
-  </tr>
-</table>
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <strong>또 읽을 책 추가</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <img src="gif/star.gif" width="300px">
-    </td>
-  </tr>
-</table>
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <strong>반추하기</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <img src="gif/review.gif" width="300px">
-    </td>
-  </tr>
-</table>
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <strong>가장 가까운 도서관 안내</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <img src="gif/nearLibrary.gif" width="300px">
-    </td>
-  </tr>
-</table>
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <strong>근처 도서관 조회</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <img src="gif/library.gif" width="300px">
-    </td>
-  </tr>
-</table>
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <strong>로그아웃 및 회원탈퇴</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #ddd;">
-      <img src="gif/logout.gif" width="300px">
-    </td>
-  </tr>
-</table>
 ## 🎥 프로젝트 시연 영상
 
 
