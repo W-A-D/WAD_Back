@@ -56,7 +56,7 @@
     <img src="https://skillicons.dev/icons?i=git"><img src="https://skillicons.dev/icons?i=github"><img src="https://skillicons.dev/icons?i=discord">
 </p>
 
-## 🏆 Team Roles
+## 🏆 역할
 
 | Role                | Name    | Responsibilities |
 |---------------------|--------|-----------------|
@@ -67,7 +67,7 @@
 | ProductDesign | 이유나  | 메인페이지/일정게시판/마이페이지 디자인, 디자인 시스템/컴포넌트 제작 |
 | ProductDesign | 김유나  | 로그인, 회원가입, 일반게시판, 일반 게시물 작성페이지 디자인 |
 
-## 📅 Project Schedule 
+## 📅 프로젝트 일정 
 
 | Category            | Task Description | Schedule |
 |---------------------|-----------------|----------|
