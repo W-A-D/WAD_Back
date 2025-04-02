@@ -6,9 +6,10 @@
 
 ## 🧑‍💻 멤버
 
-|  이름  |          [박정욱](https://github.com/Bewheneverwhatiwant)          |              [유광렬](https://github.com/ryeol00)               |                [장준익](https://github.com/Kimgah)                |              [심희영](https://github.com/jeongawon)               |                [이유나]                |                [김유나]                |
-| :----: | :----------------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------: |
-|  역할  |          <img src="https://skillicons.dev/icons?i=spring">           |          <img src="https://skillicons.dev/icons?i=spring">          |         <img src="https://skillicons.dev/icons?i=react">          |         <img src="https://skillicons.dev/icons?i=react">          |         <img src="https://skillicons.dev/icons?i=figma">          |       |         <img src="https://skillicons.dev/icons?i=figma">          |
+|  이름  | [박정욱](https://github.com/Bewheneverwhatiwant) | [유광렬](https://github.com/ryeol00) | [장준익](https://github.com/Kimgah) | [심희영](https://github.com/jeongawon) | 이유나 | 김유나 |
+| :----: | :--------------------------------------------: | :----------------------------------: | :----------------------------------: | :----------------------------------: | :----: | :----: |
+|  역할  | <img src="https://skillicons.dev/icons?i=spring"> | <img src="https://skillicons.dev/icons?i=spring"> | <img src="https://skillicons.dev/icons?i=react"> | <img src="https://skillicons.dev/icons?i=react"> | <img src="https://skillicons.dev/icons?i=figma"> | <img src="https://skillicons.dev/icons?i=figma"> |
+
 
 ## 📝 서비스 소개
 
