@@ -204,7 +204,7 @@
   <tr>
     <td align="center" style="border: 1px solid #ddd;">
 
-[![프로젝트 시연 영상](https://img.youtube.com/vi/vCadzcZWhLM/0.jpg)](https://youtu.be/SQxkXWdHU7U?si=t_bbwSiZX9J2qhjM)
+[![프로젝트 시연 영상](https://github.com/user-attachments/assets/0ec2c07e-ec8e-412d-a255-5733ee124895)](https://youtu.be/SQxkXWdHU7U?si=t_bbwSiZX9J2qhjM)
   </tr>
 </table>
 
