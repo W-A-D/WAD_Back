@@ -56,7 +56,7 @@
     <img src="https://skillicons.dev/icons?i=git"><img src="https://skillicons.dev/icons?i=github"><img src="https://skillicons.dev/icons?i=discord">
 </p>
 
-## 💻 웹페이지 최종 구현 화면
+## 💻 웹 서비스 주요 기능 최종 구현 화면
 
 <table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
